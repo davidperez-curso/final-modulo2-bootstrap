@@ -1,0 +1,13 @@
+header {
+    background-image: url(../img/img-header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+nav img{
+    width: 20%;
+    height: 10%;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
